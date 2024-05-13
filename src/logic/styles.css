@@ -1,0 +1,19 @@
+.label {
+    -fx-font-size: 14pt;
+    -fx-text-fill: #333;
+}
+
+.text-field {
+    -fx-pref-width: 200;
+}
+
+.button {
+    -fx-pref-width: 100;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.error-label {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
